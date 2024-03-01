@@ -39,5 +39,6 @@ public class Main {
         System.out.println("Вставлен элемент 100 в бинарное дерево");
         binaryTree.remove(100);
         System.out.println("Удален элемент 100 из бинарного дерева");
+        System.out.println("Удален элемент 100 из бинарного дерева");
     }
 }
